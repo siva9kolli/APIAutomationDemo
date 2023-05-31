@@ -1,4 +1,4 @@
-package com.restassured.tests;
+package com.restassured.grocery.tests;
 
 import io.restassured.response.Response;
 import org.testng.Assert;
